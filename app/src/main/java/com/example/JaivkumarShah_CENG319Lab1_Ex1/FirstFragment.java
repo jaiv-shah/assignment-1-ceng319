@@ -1,6 +1,5 @@
-package com.example.lab1;
+package com.example.JaivkumarShah_CENG319Lab1_Ex1;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
@@ -13,8 +12,6 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
-
-import java.util.ArrayList;
 
 /**
  * A simple {@link Fragment} subclass.
